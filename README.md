@@ -1,6 +1,7 @@
 # Car Sales Performance Dashboard
 
-![Screenshot\](img.png)
+![Screenshot](https://github.com/Kunalsmule/Used-Car-Market-Analysis-Pricing-Intelligence/blob/b90c1dfef4faa59b269ef2132ae790c6b933af03/img.png?raw=true)
+
 
 ## Project Overview
 
