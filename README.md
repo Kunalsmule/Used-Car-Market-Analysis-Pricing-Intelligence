@@ -1,6 +1,6 @@
 # Car Sales Performance Dashboard
 
-!\[Screenshot\](img.png)
+![Screenshot\](img.png)
 
 ## Project Overview
 
